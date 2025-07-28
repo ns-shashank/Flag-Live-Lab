@@ -1,0 +1,10 @@
+venv/ 
+test.db 
+.env 
+__pycache__/ 
+*.pyc 
+*.pyo 
+*.pyd 
+*.log 
+.vscode/ 
+.idea/ 
